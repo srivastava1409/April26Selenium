@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0.208391">
+<testcase classname="Mercury flights hooks Feature" name="Mercury flights login scenario" time="0.195581">
+<system-out><![CDATA[Given user is on login page.................................................passed
+Given Mercury hooks login scenario..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mercury flights hooks Feature" name="Mercury flights itinery scenario" time="0.001233">
+<system-out><![CDATA[Given user is on login page.................................................passed
+Given Mercury hooks itinery scenario........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mercury flights hooks Feature" name="profile scenario" time="0.001365">
+<system-out><![CDATA[Given user is on login page.................................................passed
+Given hooks scenario........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mercury flights hooks Feature" name="profile scenario" time="0.010212">
+<system-out><![CDATA[Given user is on login page.................................................passed
+Given hooks of "username" and "password"....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

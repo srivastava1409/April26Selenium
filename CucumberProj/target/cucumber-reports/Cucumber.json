@@ -1,0 +1,405 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "background scenario",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 194513747,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on login page",
+            "match": {
+              "location": "hooksteps.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 388194,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.before()"
+            }
+          },
+          {
+            "result": {
+              "duration": 125210,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.fbefore()"
+            }
+          },
+          {
+            "result": {
+              "duration": 157628,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.beforefirst()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Mercury flights login scenario",
+        "description": "",
+        "id": "mercury-flights-hooks-feature;mercury-flights-login-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 92389,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.afterfirst()"
+            }
+          },
+          {
+            "result": {
+              "duration": 91173,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.fafter()"
+            }
+          },
+          {
+            "result": {
+              "duration": 86310,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 126427,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Mercury hooks login scenario",
+            "match": {
+              "location": "hooksteps.mercury_hooks_login_scenario()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 7,
+            "name": "@First"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "background scenario",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 95225,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on login page",
+            "match": {
+              "location": "hooksteps.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 120753,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.before()"
+            }
+          },
+          {
+            "result": {
+              "duration": 85500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.fbefore()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Mercury flights itinery scenario",
+        "description": "",
+        "id": "mercury-flights-hooks-feature;mercury-flights-itinery-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 301883,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.fafter()"
+            }
+          },
+          {
+            "result": {
+              "duration": 342000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 288106,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Mercury hooks itinery scenario",
+            "match": {
+              "location": "hooksteps.mercury_hooks_itinery_scenario()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@Second"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "background scenario",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 113460,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on login page",
+            "match": {
+              "location": "hooksteps.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 376037,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.before()"
+            }
+          },
+          {
+            "result": {
+              "duration": 255689,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.fbefore()"
+            }
+          },
+          {
+            "result": {
+              "duration": 264604,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.beforefirst()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "profile scenario",
+        "description": "",
+        "id": "mercury-flights-hooks-feature;profile-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 91173,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.fafter()"
+            }
+          },
+          {
+            "result": {
+              "duration": 133720,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 130479,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "hooks scenario",
+            "match": {
+              "location": "hooksteps.hooks_scenario()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 15,
+            "name": "@Third"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "background scenario",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2201115,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on login page",
+            "match": {
+              "location": "hooksteps.user_is_on_login_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 238265,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.before()"
+            }
+          },
+          {
+            "result": {
+              "duration": 226919,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.fbefore()"
+            }
+          }
+        ],
+        "line": 25,
+        "name": "profile scenario",
+        "description": "",
+        "id": "mercury-flights-hooks-feature;profile-scenario;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 98872,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.fafter()"
+            }
+          },
+          {
+            "result": {
+              "duration": 88336,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooksteps.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7358253,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "hooks of \"username\" and \"password\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "username",
+                  "offset": 10
+                },
+                {
+                  "val": "password",
+                  "offset": 25
+                }
+              ],
+              "location": "hooksteps.hooks_of_and(String,String)"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 19,
+            "name": "@Fourth"
+          }
+        ]
+      }
+    ],
+    "name": "Mercury flights hooks Feature",
+    "description": "",
+    "id": "mercury-flights-hooks-feature",
+    "keyword": "Feature",
+    "uri": "C:/Users/CV/eclipse-workspace/CucumberProj/src/main/java/Features/hooks.feature"
+  }
+]
